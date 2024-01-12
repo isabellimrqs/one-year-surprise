@@ -1,0 +1,15 @@
+.player-ctrl {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#ffe;
+    width: 10%;
+  }
+  i {
+    font-size: 35px;
+    color: rgb(0, 0, 0);
+    /* line-height: 1px; */
+    padding: 1px;
+    margin-right: 150px;
+    cursor: pointer;
+  }
